@@ -2,7 +2,7 @@
   "name": "challenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fercho67.github.io/Fercho67-challenge.github.io/",
+  "homepage": "https://fercho67.github.io/challenge",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

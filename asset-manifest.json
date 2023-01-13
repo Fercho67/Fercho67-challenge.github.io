@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Fercho67-challenge.github.io/static/css/main.174f09ce.css",
-    "main.js": "/Fercho67-challenge.github.io/static/js/main.4fe2f86b.js",
-    "index.html": "/Fercho67-challenge.github.io/index.html",
-    "main.174f09ce.css.map": "/Fercho67-challenge.github.io/static/css/main.174f09ce.css.map",
-    "main.4fe2f86b.js.map": "/Fercho67-challenge.github.io/static/js/main.4fe2f86b.js.map"
+    "main.css": "/challenge/static/css/main.174f09ce.css",
+    "main.js": "/challenge/static/js/main.b7e015bc.js",
+    "index.html": "/challenge/index.html",
+    "main.174f09ce.css.map": "/challenge/static/css/main.174f09ce.css.map",
+    "main.b7e015bc.js.map": "/challenge/static/js/main.b7e015bc.js.map"
   },
   "entrypoints": [
     "static/css/main.174f09ce.css",
-    "static/js/main.4fe2f86b.js"
+    "static/js/main.b7e015bc.js"
   ]
 }
